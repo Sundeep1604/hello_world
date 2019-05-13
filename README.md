@@ -1,1 +1,1 @@
-# First Git program
+GIT program
